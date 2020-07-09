@@ -18,7 +18,7 @@
 [![https://www.facebook.com/rohit.luthra.77](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/rohit.luthra.77) Facebook <br/>
 
 [<img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="20" height="20" />](https://in.linkedin.com/in/rohitluthra19) Linkedin <br/>
-![https://stackoverflow.com/story/rohitluthra](https://cdn.sstatic.net/Img/logo-so.png?v=f1f0fe99894d) 
+[![https://stackoverflow.com/story/rohitluthra](https://cdn.sstatic.net/Img/logo-so.png?v=f1f0fe99894d)](https://stackoverflow.com/story/rohitluthra)
 
 <!--
 **RohitLuthra19/RohitLuthra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
