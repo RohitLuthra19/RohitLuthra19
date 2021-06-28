@@ -13,12 +13,13 @@
   - Proficient in Mobile development using React-Native/Flutter.
   - Experience in using version controlling systems like TFS and GIT.
 
-# REACH ME
+# Connect
+https://rohitluthra.vercel.app/
+
 [![https://twitter.com/rohit_luthra](http://i.imgur.com/tXSoThF.png)](https://twitter.com/rohit_luthra) Twitter <br/>
 [![https://www.facebook.com/rohit.luthra.77](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/rohit.luthra.77) Facebook <br/>
-
-[<img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="20" height="20" />](https://in.linkedin.com/in/rohitluthra19) Linkedin <br/>
-[![https://stackoverflow.com/story/rohitluthra](https://cdn.sstatic.net/Img/logo-so.png?v=f1f0fe99894d)](https://stackoverflow.com/story/rohitluthra)
+[![https://in.linkedin.com/in/rohitluthra19](https://imgur.com/gallery/Vahbdkj)](https://in.linkedin.com/in/rohitluthra19) LinkedIn <br/>
+[![https://stackoverflow.com/story/rohitluthra](https://imgur.com/gallery/gZxmnyn)](https://stackoverflow.com/story/rohitluthra) LinkedIn <br/>
 
 <!--
 **RohitLuthra19/RohitLuthra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
