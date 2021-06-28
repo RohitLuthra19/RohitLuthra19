@@ -14,10 +14,10 @@
   - Experience in using version controlling systems like TFS and GIT.
 
 # Connect
-https://rohitluthra.vercel.app/
 
-[LinkedIn](https://in.linkedin.com/in/rohitluthra19)
-[StackOverflow](https://stackoverflow.com/story/rohitluthra)
+[Portfolio](https://rohitluthra.vercel.app/)<br/>
+[LinkedIn](https://in.linkedin.com/in/rohitluthra19)<br/>
+[StackOverflow](https://stackoverflow.com/story/rohitluthra)<br/>
 
 [![https://twitter.com/rohit_luthra](http://i.imgur.com/tXSoThF.png)](https://twitter.com/rohit_luthra) Twitter <br/>
 [![https://www.facebook.com/rohit.luthra.77](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/rohit.luthra.77) Facebook <br/>
