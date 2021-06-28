@@ -18,8 +18,8 @@ https://rohitluthra.vercel.app/
 
 [![https://twitter.com/rohit_luthra](http://i.imgur.com/tXSoThF.png)](https://twitter.com/rohit_luthra) Twitter <br/>
 [![https://www.facebook.com/rohit.luthra.77](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/rohit.luthra.77) Facebook <br/>
-[![https://in.linkedin.com/in/rohitluthra19](https://imgur.com/gallery/Vahbdkj)](https://in.linkedin.com/in/rohitluthra19) LinkedIn <br/>
-[![https://stackoverflow.com/story/rohitluthra](https://imgur.com/gallery/gZxmnyn)](https://stackoverflow.com/story/rohitluthra) LinkedIn <br/>
+[![https://in.linkedin.com/in/rohitluthra19](https://i.mgur.com/gallery/Vahbdkj)](https://in.linkedin.com/in/rohitluthra19) LinkedIn <br/>
+[![https://stackoverflow.com/story/rohitluthra](https://i.mgur.com/gallery/gZxmnyn)](https://stackoverflow.com/story/rohitluthra) StackOverflow <br/>
 
 <!--
 **RohitLuthra19/RohitLuthra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
