@@ -15,12 +15,11 @@
 
 # Connect
 
-[Portfolio](https://rohitluthra.vercel.app/)<br/>
+[Website](https://rohitluthra.vercel.app/)<br/>
 [LinkedIn](https://in.linkedin.com/in/rohitluthra19)<br/>
+[Twitter](https://twitter.com/rohit_luthra)<br/>
 [StackOverflow](https://stackoverflow.com/story/rohitluthra)<br/>
-
-[![https://twitter.com/rohit_luthra](http://i.imgur.com/tXSoThF.png)](https://twitter.com/rohit_luthra) Twitter <br/>
-[![https://www.facebook.com/rohit.luthra.77](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/rohit.luthra.77) Facebook <br/>
+[Facebook](https://www.facebook.com/rohit.luthra.77)<br/>
 
 <!--
 **RohitLuthra19/RohitLuthra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
