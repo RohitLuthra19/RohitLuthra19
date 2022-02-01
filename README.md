@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/rohit_luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_luthra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitluthra19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitluthra19" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rohit-luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit-luthra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4936535/rohit-luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohit-luthra" height="30" width="40" /></a>
 <a href="https://medium.com/@rohitluthra19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohitluthra19" height="30" width="40" /></a>
 <a href="https://fb.com/rohit.luthra.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit.luthra.77" height="30" width="40" /></a>
 </p>
