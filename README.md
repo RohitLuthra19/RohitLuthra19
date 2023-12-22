@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Luthra</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- I’m currently working on [Incentive compensation](https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/field-force-operations/incentive-compensation)
 - I have experience in building products for different domains like Banking, Marketing and Sales, Healthcare & Publishing
 - Hands-on experience in creating RESTful web services using Express.Js(Node.Js) and Apollo GraphQL
 - Experience in developing Single Page Responsive Applications (SPA)/Micro-Frontends using HTML5, SASS/CSS, JavaScript, React.js, React Hooks, React Context API, GraphQl Hooks, NextJS, Redux & Redux-Saga.
